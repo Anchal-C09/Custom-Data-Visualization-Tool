@@ -20,11 +20,11 @@ The interface is built with **Tailwind CSS** for a clean, responsive, and modern
 ## 📸 Preview
 
 ### 🏠 Home Interface
-![Home Page](./assets/home.png)
+![Home Page](home.png.png)
 
 
 ### 📊 Example Chart
-![Chart Example](./assets/chart.png)
+![Chart Example](chart.png.png)
 
 
 
@@ -52,10 +52,10 @@ The interface is built with **Tailwind CSS** for a clean, responsive, and modern
 - Add or remove data entries as needed — the chart updates dynamically.
 
 ---
-🧑‍💻 Author
+## 🧑‍💻 Author
 Anchal Chaubey
 
-💼 LinkedIn | 💻 GitHub
+💼 [LinkedIn](https://github.com/Anchal-C09).| 💻 [GitHub](https://github.com/Anchal-C09)
 
 ## 🪪 License
 This project is open-source and available under the MIT License.
