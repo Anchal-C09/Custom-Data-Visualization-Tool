@@ -55,7 +55,7 @@ The interface is built with **Tailwind CSS** for a clean, responsive, and modern
 ## 🧑‍💻 Author
 Anchal Chaubey
 
-💼 [LinkedIn](https://github.com/Anchal-C09).| 💻 [GitHub](https://github.com/Anchal-C09)
+💼 [LinkedIn](https://www.linkedin.com/in/anchal-chaubey-13a282344/).| 💻 [GitHub](https://github.com/Anchal-C09)
 
 ## 🪪 License
 This project is open-source and available under the MIT License.
